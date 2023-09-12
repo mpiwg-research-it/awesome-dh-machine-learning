@@ -88,7 +88,7 @@ This page is dedicated to the collection of the Machine Learning papers, repos, 
 ## Humanities ML Datasets
 
 ### Sacrobosco Visual Elements Dataset (S-VED)
-The SVED dataset is a large object detection dataset produced by the [Sphere Project](https://sphaera.mpiwg-berlin.mpg.de/). The dataset contains images and labelled bounding boxes covering four different classes: "Content Illustrations", "Initials", "Decorations", and "Printer's Marks". This dataset is associated with XXX insert paper XXX and a service XXX insert hyperlink to service XXX. 
+The SVED dataset is a large object detection dataset produced by the [Sphere Project](https://sphaera.mpiwg-berlin.mpg.de/). The dataset contains images and labelled bounding boxes covering four different classes: "Content Illustrations", "Initials", "Decorations", and "Printer's Marks". This dataset is associated with this [paper](#cordeep-and-the-sacrobosco-dataset-detection-of-visual-elements-in-historical-documents) and a [service](#cordeep). 
 
 
 ## Presentations & publications
